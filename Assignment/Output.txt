@@ -1,0 +1,2 @@
+Maximum CGPA :4.50
+Minimum CGPA :3.10
